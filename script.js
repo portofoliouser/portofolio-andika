@@ -60,7 +60,7 @@ ScrollReveal().reveal(".contact .social-media", { origin: "right" });
 // Multiple Text with typed js
 
 const typed = new Typed(".multiple-text", {
-    strings: ["Operator Alat Berat", "Mekanik Mobil", "Driver Mobil"],
+    strings: ["Operator Alat Berat", "Mekanik Mobil"],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 2000,
